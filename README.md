@@ -91,7 +91,7 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
-![Uploading 7th output edge computing.jpg…]()
+![WhatsApp Image 2025-05-15 at 11 53 19_383399b5](https://github.com/user-attachments/assets/8fec370e-d2ed-44ac-a2c5-abe5b83ef16a)
 
 
 
