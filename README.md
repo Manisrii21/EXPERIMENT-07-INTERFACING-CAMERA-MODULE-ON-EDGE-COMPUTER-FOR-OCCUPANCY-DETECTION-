@@ -56,6 +56,7 @@ import cv2
 import imutils
 
 ###  Initialize HOG descriptor with people detector
+```
 hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
@@ -88,6 +89,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 
+```
 
 ### SCREEN SHOTS OF OUTPUT 
 
